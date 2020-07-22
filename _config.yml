@@ -39,6 +39,7 @@ baseurl: "/Pushforward" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
+    LinkedIn: https://linkedin.com/vic1738
     twitter: 
     github: Slick-Vic/Pushforward
 
