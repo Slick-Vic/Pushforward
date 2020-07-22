@@ -40,7 +40,7 @@ baseurl: "/Pushforward" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: 
-    github: Slick-Vic/pushforward
+    github: Slick-Vic
 
 # Set this to true to get LaTeX math equation support
 use_math: true
