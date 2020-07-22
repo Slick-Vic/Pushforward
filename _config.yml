@@ -39,9 +39,8 @@ baseurl: "/Pushforward" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    LinkedIn: https://linkedin.com/vic1738
     twitter: 
-    github: Slick-Vic/Pushforward
+    github: Pushforward
 
 # Set this to true to get LaTeX math equation support
 use_math: true
