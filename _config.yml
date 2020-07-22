@@ -10,7 +10,7 @@ title: Pushforward
 description: A blog for those who would like to explore math in a more conceptual context.
 github_username: Slick-Vic
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "Pushforward"
+#github_repo: "Pushforward"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -40,7 +40,7 @@ baseurl: "/Pushforward" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     twitter: 
-    github: /Pushforward
+    github: Slick-Vic/Pushforward
 
 # Set this to true to get LaTeX math equation support
 use_math: true
