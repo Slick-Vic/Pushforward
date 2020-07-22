@@ -1,1 +1,1 @@
-Sitemap: https://slick-vic.github.io/Open/sitemap.xml
+Sitemap: https://slick-vic.github.io/Pushforward/sitemap.xml
